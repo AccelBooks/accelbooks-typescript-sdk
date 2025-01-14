@@ -1,0 +1,1 @@
+export { PutCompanyIdCategoryRequest } from "./PutCompanyIdCategoryRequest";
